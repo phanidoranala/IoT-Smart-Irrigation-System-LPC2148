@@ -320,7 +320,7 @@ in real time.
 
 The graph below shows the humidity data uploaded to ThingSpeak cloud.
 
-![Humidity Monitoring](humidity.png)
+//![Humidity Monitoring](humidity.png)
 
 ### Explanation
 
@@ -339,7 +339,7 @@ Humidity values are also used for automatic irrigation timing control.
 
 The graph below represents irrigation motor operating status.
 
-![Motor Monitoring](motor.png)
+//![Motor Monitoring](motor.png)
 
 ### Explanation
 
